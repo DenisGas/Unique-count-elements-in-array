@@ -1,4 +1,4 @@
-# Unique-count-elements-in-array
+# Unique count elements is array
 Console app which counts the number of unique array elements.
 
 ! Only standard libres 
